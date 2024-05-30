@@ -1,0 +1,174 @@
+{
+  "common": {
+    "experience": "Experiencia",
+    "competence": "Competência",
+    "knowledge": "Conhecimento",
+    "professionalExperience": "Experiência profissional"
+  },
+  "HeroSection": {
+    "title": "Meu Nome é",
+    "name": "Wenderson do Nascimento Fazan",
+    "description1": "Profissional com sólida experiência em desenvolvimento Web com foco em PHP e Laravel, apaixonado por tecnologia e desafios.",
+    "description2": "Meu principal objetivo profissional é integrar equipes de alta performance, onde eu tenha a oportunidade de desenvolver minhas habilidades e competências, ao mesmo tempo em que contribuo para o desenvolvimento da organização através de conhecimentos práticos e teóricos adquiridos ao longo da minha formação.",
+    "description3": "Com formação em Sistemas para internet concluído, estou sempre em busca de novos aprendizados que possam agregar à minha área de atuação, me tornando um profissional cada vez mais capacitado para o mercado de trabalho."
+  },
+  "experiences": {
+    "list": [
+      {
+        "company": "Acaruiy",
+        "company_logo": "/images/acaruiy_logo.jpg",
+        "company_url": "https://www.linkedin.com/company/acaruiy/",
+        "title": "Desenvolvedor PHP - Pleno",
+        "time": "Jun/2022 - Atualmente",
+        "description": [
+          "● Desenvolver novas funcionalidades e realizar manutenção no principal produto da empresa.",
+          "● Ajudei a empresa a implementar políticas de versionamento de código em novos produtos.",
+          "● Ponto de Apoio Técnico para Outros Desenvolvedores.",
+          "● Desenvolvimento de novas aplicações com microsserviços.",
+          "● Desenvolvimento do SSO.",
+          "● Desenvolvimento de microserviço de disparo de emails.",
+          "● Desenvolvimento de API'S para uso interno para outros projetos.",
+          "● Desenvolvimento de rotinas com Apache NIFI. (Automatizar o fluxo de dados)",
+          "● Desenvolvimento de API Gateway"
+        ],
+        "technologies": [
+          "PHP",
+          "Laravel",
+          "Mysql",
+          "PostgresSQL",
+          "ApiRest",
+          "Python",
+          "Java",
+          "Azure",
+          "Git",
+          "Apache Nifi",
+          "Apache Kogito",
+          "Servidores"
+        ]
+      },
+      {
+        "company": "Criarenet",
+        "company_logo": "/images/criare_net_logo.jpg",
+        "company_url": "https://www.linkedin.com/company/criare-net/",
+        "title": "Desenvolvedor PHP - Pleno",
+        "time": "Out/2021 - Mai/2022",
+        "description": [
+          "Atuei com desenvolvimento e manutenção de portais e sistemas internos utilizando as ferramentas atuais do mercado como: HTML5, CSS3, Bootstrap, JS, Jquery, AJAX, PHP e laravel.",
+          "Soluções WEB com laravel, integrações com APIs REST, SOAP e XML Manutenção de banco de dados MySQL e MongoDB."
+        ],
+        "technologies": [
+          "PHP",
+          "Laravel",
+          "Docker",
+          "Mysql",
+          "PostgresSQL",
+          "ApiRest",
+          "Python",
+          "Java",
+          "Azure",
+          "Git"
+        ]
+      },
+      {
+        "company": "Hello Soluções",
+        "company_logo": "/images/hellosolucoes.jpg",
+        "company_url": "https://www.linkedin.com/company/hello-solu%C3%A7%C3%B5es/",
+        "title": "Desenvolvedor PHP - Jr",
+        "time": "Ago/2017 - Out/2021",
+        "description": [
+          "Atuei com desenvolvimento e manutenção de portais e sistemas internos(intranet) utilizando as ferramentas atuais do mercado como: HTML5, CSS3, Bootstrap, JS, Jquery, AJAX e PHP.",
+          "Soluções WEB com laravel e manutenções de API's voltada à reservas de hotelaria, locação de veículos entre outros serviços turísticos.",
+          "Manutenção de banco de dados MySQL e PostgreSQL.",
+          "Integrações com API's REST, SOAP e XML."
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JS",
+          "Jquery",
+          "AJAX",
+          "PHP",
+          "Laravel",
+          "Docker",
+          "Mysql",
+          "PostegresSQL",
+          "ApiRest",
+          "Git"
+        ]
+      },
+      {
+        "company": "E-HTL Viagens Online",
+        "company_logo": "/images/hellosolucoes.jpg",
+        "company_url": "https://www.linkedin.com/company/ehtloficial/",
+        "title": "Jovem Aprendiz",
+        "time": "Ago/2016 - Nov/2017",
+        "description": [
+          "Atuei com manutenções de computadores, atendimento help desk, infraestrutura e manutenção de redes."
+        ],
+        "technologies": [
+          "infraestrutura",
+          "Manutenção de computadores",
+          "Redes"
+        ]
+      }
+    ]
+  },
+  "stacks": {
+    "list": [
+      {
+        "stack": "PHP",
+        "startDate": "2017-01-01",
+        "img": "php"
+      },
+      {
+        "stack": "Laravel",
+        "startDate": "2017-07-30",
+        "img": "laravel"
+      },
+      {
+        "stack": "Python",
+        "startDate": "2019-07-30'",
+        "img": "python"
+      },
+      {
+        "stack": "Java",
+        "startDate": "2023-03-30",
+        "img": "java"
+      },
+      {
+        "stack": "MySQL",
+        "startDate": "2017-07-30",
+        "img": "mysql"
+      },
+      {
+        "stack": "Git",
+        "startDate": "2017-07-30",
+        "img": "git"
+      },
+      {
+        "stack": "PostgresSQL",
+        "startDate": "2017-07-30",
+        "img": "postgresql"
+      },
+      {
+        "stack": "MongoDB",
+        "startDate": "2022-07-30",
+        "img": "mongodb"
+      },
+      {
+        "stack": "ReactJs",
+        "startDate": "2023-07-30",
+        "img": "react"
+      },
+      {
+        "stack": "NextJs",
+        "startDate": "2023-07-30",
+        "img": "next"
+      }
+    ]
+  },
+  "workExperience": {
+    "mainTitle": "Como desenvolvedor com experiência em PHP, Laravel, Python, Java, MySQL, outros bancos relacionais e ferramentas web, meu objetivo é criar soluções de alta qualidade e inovadoras, buscando constantemente aprimorar minhas habilidades e contribuir para o sucesso dos projetos e equipes de desenvolvimento."
+  }
+}

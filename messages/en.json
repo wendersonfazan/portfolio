@@ -1,0 +1,175 @@
+{
+  "common": {
+    "experience": "Experience",
+    "competence": "Competence",
+    "knowledge": "Knowledge",
+    "professionalExperience": "Professional Experience"
+  },
+  "HeroSection": {
+    "title": "My name is",
+    "name": "Wenderson do Nascimento Fazan",
+    "description1": "Professional with solid experience in Web development with focus in PHP and Laravel, passionate about technology and challenges.",
+    "description2": "My main professional objective is to integrate high-quality teams performance, where I have the opportunity to develop my skills and competencies, while contributing to the development of the organization through practical knowledge and theoretical knowledge acquired throughout my training.",
+    "description3": "Having completed training in Internet Systems, I am always looking for new learning that can add to my area of activity, making me an increasingly qualified professional for the job market."
+  },
+  "experiences": {
+    "list": [
+      {
+        "company": "Acaruiy",
+        "company_logo": "/images/acaruiy_logo.jpg",
+        "company_url": "https://www.linkedin.com/company/acaruiy/",
+        "title": "Mid Level - Developer",
+        "time": "Jun/2022 - At the moment",
+        "description": [
+          "● Develop new features and perform maintenance on the company's main product.",
+          "● I helped the company implement code versioning policies in new products.",
+          "● Technical Support Point for Other Developers.",
+          "● Development of new applications with microservices.",
+          "● SSO development.",
+          "● Development of email triggering microservice.",
+          "● Development of APIs for internal use for other projects.",
+          "● Development of routines with Apache NIFI. (Automate data flow)",
+          "● API Gateway Development"
+        ],
+        "technologies": [
+          "PHP",
+          "Laravel",
+          "Mysql",
+          "PostgresSQL",
+          "ApiRest",
+          "Python",
+          "Java",
+          "Azure",
+          "Git",
+          "Apache Nifi",
+          "Apache Kogito",
+          "Servers"
+        ]
+      },
+      {
+        "company": "Criarenet",
+        "company_logo": "/images/criare_net_logo.jpg",
+        "company_url": "ttps://www.linkedin.com/company/criare-net/",
+        "title": "Mid Level - Developer",
+        "time": "Out/2021 - Mai/2022",
+        "description": [
+          "I worked with the development and maintenance of portals and internal systems using current market tools such as: HTML5, CSS3, Bootstrap, JS, Jquery, AJAX, PHP and laravel.",
+          "WEB solutions with laravel, integrations with REST, SOAP and XML APIs MySQL and MongoDB database maintenance."
+        ],
+        "technologies": [
+          "PHP",
+          "Laravel",
+          "Docker",
+          "Mysql",
+          "PostgresSQL",
+          "ApiRest",
+          "Python",
+          "Java",
+          "Azure",
+          "Git"
+        ]
+      },
+      {
+        "company": "Hello Soluções",
+        "company_logo": "/images/hellosolucoes.jpg",
+        "company_url": "https://www.linkedin.com/company/hello-solu%C3%A7%C3%B5es/",
+        "title": "Developer",
+        "time": "Ago/2017 - Out/2021",
+        "description": [
+          "I worked with the development and maintenance of portals and internal systems (intranet) using current market tools such as: HTML5, CSS3, Bootstrap, JS, Jquery, AJAX and PHP.",
+          "WEB solutions with Laravel and API maintenance aimed at hotel reservations, car rental and other tourist services.",
+          "MySQL and PostgreSQL database maintenance.",
+          "Integrations with REST, SOAP and XML APIs."
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JS",
+          "Jquery",
+          "AJAX",
+          "PHP",
+          "Laravel",
+          "Docker",
+          "Mysql",
+          "PostgresSQL",
+          "ApiRest",
+          "Git"
+        ]
+      },
+      {
+        "company": "E-HTL Viagens Online",
+        "company_logo": "/images/hellosolucoes.jpg",
+        "company_url": "https://www.linkedin.com/company/ehtloficial/",
+        "title": "Young apprentice",
+        "time": "Ago/2016 - Nov/2017",
+        "description": [
+          "I worked with computer maintenance, help desk service, infrastructure and network maintenance."
+        ],
+        "technologies": [
+          "infrastructure",
+          "Computer maintenance",
+          "Networks"
+        ]
+      }
+
+    ]
+  },
+  "stacks": {
+    "list": [
+      {
+        "stack": "PHP",
+        "startDate": "2017-01-01",
+        "img": "php"
+      },
+      {
+        "stack": "Laravel",
+        "startDate": "2017-07-30",
+        "img": "laravel"
+      },
+      {
+        "stack": "Python",
+        "startDate": "2019-07-30'",
+        "img": "python"
+      },
+      {
+        "stack": "Java",
+        "startDate": "2023-03-30",
+        "img": "java"
+      },
+      {
+        "stack": "MySQL",
+        "startDate": "2017-07-30",
+        "img": "mysql"
+      },
+      {
+        "stack": "Git",
+        "startDate": "2017-07-30",
+        "img": "git"
+      },
+      {
+        "stack": "PostgresSQL",
+        "startDate": "2017-07-30",
+        "img": "postgresql"
+      },
+      {
+        "stack": "MongoDB",
+        "startDate": "2022-07-30",
+        "img": "mongodb"
+      },
+      {
+        "stack": "ReactJs",
+        "startDate": "2023-07-30",
+        "img": "react"
+      },
+      {
+        "stack": "NextJs",
+        "startDate": "2023-07-30",
+        "img": "next"
+      }
+    ]
+  },
+  "workExperience": {
+    "mainTitle": "As a developer with experience in PHP, Laravel, Python, Java, MySQL, other relational databases and web tools, my goal is create high quality and innovative solutions, seeking constantly improving my skills and contributing to the success of projects and development teams."
+  }
+}
