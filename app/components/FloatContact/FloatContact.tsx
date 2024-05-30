@@ -24,7 +24,6 @@ const MockContacts = [
 ]
 
 export default function FloatContact() {
-
     return (
         <motion.div
             initial={{ opacity: 0, translateX: -100 }}
@@ -54,7 +53,7 @@ export default function FloatContact() {
                 placement='right'
             >
                 <motion.a
-                    href={process.env.EMAIL}
+                    href={process.env.NEXT_PUBLIC_EMAIL}
                     className="cursor-pointer text-gray-100 w-12 h-12 group hover:h-14 hover:w-14 flex justify-center items-center transition-all rounded-lg border-2 border-teal-400/50 hover:bg-teal-400 hover:shadow-button hover:border-2 hover:border-teal-300"
                 >
                     <MdEmail />
@@ -66,7 +65,7 @@ export default function FloatContact() {
                 placement='right'
             >
                 <motion.a
-                    href={process.env.CURRICULUM}
+                    href={process.env.NEXT_PUBLIC_CURRICULUM}
                     download
                     target="_blank"
                     className="cursor-pointer text-gray-100 w-12 h-12 hover:h-14 hover:w-14 flex justify-center items-center transition-all rounded-lg border-2 border-teal-400/50 hover:bg-teal-400 hover:shadow-button hover:border-2 hover:border-teal-300"

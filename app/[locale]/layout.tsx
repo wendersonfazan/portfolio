@@ -2,6 +2,7 @@ import { Header } from '../components/header'
 import { NextIntlClientProvider, useMessages } from "next-intl";
 import NextUIProviderClient from '../context/NextUIProviderClient/NextUIProviderClient'
 import FloatContact from '../components/FloatContact/FloatContact';
+import {Footer} from "@/app/components/footer";
 
 
 export default function LocaleLayout({ children, params: { locale } }: {
@@ -21,6 +22,7 @@ export default function LocaleLayout({ children, params: { locale } }: {
                             {children}
                         </NextIntlClientProvider>
                     </div>
+                    <Footer />
                 </NextUIProviderClient>
             </body>
         </html>
