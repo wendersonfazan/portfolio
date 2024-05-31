@@ -8,7 +8,7 @@ import {
     TbBrandLaravel,
     TbBrandMysql,
     TbBrandPhp,
-    TbBrandGit,
+    TbBrandGit, TbBrandNodejs,
 } from 'react-icons/tb'
 import {
     BiLogoJava,
@@ -47,6 +47,8 @@ function GetIcons({name}: { name: string }) {
             return <TbBrandReact size={30}/>
         case 'next':
             return <TbBrandNextjs size={30}/>
+        case 'node':
+            return <TbBrandNodejs size={30}/>
         default:
             return <BiLogoPython size={30}/>
     }
