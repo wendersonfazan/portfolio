@@ -1,4 +1,5 @@
 'use client'
+
 import { motion } from 'framer-motion'
 import { TbBrandGithub, TbBrandLinkedin, TbBrandWhatsapp } from 'react-icons/tb'
 import { BsFiletypePdf } from 'react-icons/bs'

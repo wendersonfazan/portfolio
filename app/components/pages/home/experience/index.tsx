@@ -1,3 +1,5 @@
+'use client'
+
 import { SectionTitles } from '@/app/components/section-title'
 import { ExperienceItem } from './experience-item'
 import {useTranslations} from "next-intl";

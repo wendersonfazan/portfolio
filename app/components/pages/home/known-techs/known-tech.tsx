@@ -1,7 +1,8 @@
+'use client'
+
 import {getRelativeTimeString} from '@/app/utils/get-relative-time'
-import {useTranslations} from 'next-intl'
 import {usePathname} from 'next/navigation'
-import {ReactNode} from 'react'
+
 import {
     TbBrandNextjs,
     TbBrandReact,
