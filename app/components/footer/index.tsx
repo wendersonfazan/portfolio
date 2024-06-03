@@ -1,3 +1,5 @@
+'use client'
+
 import { IoMdHeart } from 'react-icons/io'
 
 export const Footer = () => {
