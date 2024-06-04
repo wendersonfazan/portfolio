@@ -37,7 +37,7 @@ export const HeroSection = () => {
 
                     </p>
                     <div className="flex flex-wrap gap-x-2 gap-y-3 lg:max-w-[550px]">
-                        {/* {translateStacks.raw('list').map((stack: any, i: number) => (
+                        {translateStacks.raw('list').map((stack: any, i: number) => (
                             <TechBadge
                                 key={`intro-tech-${stack.stack}`}
                                 name={stack.stack}
@@ -46,7 +46,7 @@ export const HeroSection = () => {
                                 exit={{opacity: 0, scale: 0}}
                                 transition={{duration: 0.5, delay: i * 0.1}}
                             />
-                        ))} */}
+                        ))}
                     </div>
                 </motion.div>
                 <motion.div
