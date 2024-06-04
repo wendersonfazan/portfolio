@@ -1,3 +1,5 @@
+'use client'
+
 import { useMemo } from "react"
 import { usePathname, useRouter } from "next/navigation"
 import { Dropdown, DropdownTrigger, DropdownMenu, DropdownItem, Avatar, User } from "@nextui-org/react"
