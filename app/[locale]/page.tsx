@@ -8,7 +8,7 @@ export default function Index() {
         <>
             <HeroSection />
             <KnownTeachs />
-            <WorkExperience />
+            {/* <WorkExperience /> */}
         </>
     )
 }
