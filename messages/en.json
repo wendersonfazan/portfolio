@@ -160,19 +160,19 @@
       {
         "stack": "ReactJs",
         "img": "react",
-        "timing": "1 Years"
+        "timing": "1 Year"
       },
       {
         "stack": "NextJs",
         "startDate": "2023-07-30",
         "img": "next",
-        "timing": "1 Years"
+        "timing": "1 Year"
       },
       {
         "stack": "NodeJS",
         "startDate": "2023-01-30",
         "img": "node",
-        "timing": "1 Years"
+        "timing": "1 Year"
       }
     ]
   },
