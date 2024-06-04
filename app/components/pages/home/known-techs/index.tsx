@@ -25,7 +25,7 @@ export const KnownTeachs = () => {
                                 tech={{
                                     icon: stack.img,
                                     name: stack.stack,
-                                    startDate: stack.startDate,
+                                    timing: stack.timing
                                 }}
                             />
                         </motion.div>

@@ -112,65 +112,67 @@
           "Networks"
         ]
       }
-
     ]
   },
   "stacks": {
     "list": [
       {
         "stack": "PHP",
-        "startDate": "2017-01-01",
-        "img": "php"
+        "img": "php",
+        "timing": "7 Years"
       },
       {
         "stack": "Laravel",
-        "startDate": "2017-07-30",
-        "img": "laravel"
+        "img": "laravel",
+        "timing": "7 Years"
       },
       {
         "stack": "Python",
         "startDate": "2019-07-30'",
-        "img": "python"
+        "img": "python",
+        "timing": "5 Years"
       },
       {
         "stack": "Java",
-        "startDate": "2023-03-30",
+        "timing": "3 Years",
         "img": "java"
       },
       {
         "stack": "MySQL",
-        "startDate": "2017-07-30",
-        "img": "mysql"
+        "img": "mysql",
+        "timing": "7 Years"
       },
       {
         "stack": "Git",
-        "startDate": "2017-07-30",
-        "img": "git"
+        "img": "git",
+        "timing": "7 Years"
       },
       {
         "stack": "PostgresSQL",
-        "startDate": "2017-07-30",
-        "img": "postgresql"
+        "img": "postgresql",
+        "timing": "7 Years"
       },
       {
         "stack": "MongoDB",
-        "startDate": "2022-07-30",
-        "img": "mongodb"
+        "img": "mongodb",
+        "timing": "3 Years"
       },
       {
         "stack": "ReactJs",
-        "startDate": "2023-07-30",
-        "img": "react"
+        "img": "react",
+        "timing": "1 Years"
       },
       {
         "stack": "NextJs",
         "startDate": "2023-07-30",
-        "img": "next"
+        "img": "next",
+        "timing": "1 Years"
       },
       {
         "stack": "NodeJS",
         "startDate": "2023-01-30",
-        "img": "node"
+        "img": "node",
+        "timing": "1 Years"
       }
     ]
   },
