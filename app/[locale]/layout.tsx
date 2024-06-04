@@ -18,9 +18,9 @@ export default function LocaleLayout({ children, params: { locale } }: {
                     <FloatContact />
                     <Header />
                     <div className="mt-24">
-                        {/* <NextIntlClientProvider messages={messages}>
+                        <NextIntlClientProvider messages={messages}>
                             {children}
-                        </NextIntlClientProvider> */}
+                        </NextIntlClientProvider>
                     </div>
                     <Footer />
                 </NextUIProviderClient>
