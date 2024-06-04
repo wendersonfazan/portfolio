@@ -10,7 +10,7 @@ export const ExperienceItem = () => {
 
     return (
         <>
-            {/* {translateExperiences.raw('list').map((value: any, i: number) => (
+            {translateExperiences.raw('list').map((value: any, i: number) => (
                 <motion.div
                     key={value.company}
                     initial={{ opacity: 0, y: 50 }}
@@ -64,7 +64,7 @@ export const ExperienceItem = () => {
                         </div>
                     </div>
                 </motion.div>
-            ))} */}
+            ))}
         </>
     )
 }

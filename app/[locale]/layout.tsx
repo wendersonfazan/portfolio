@@ -15,7 +15,7 @@ export default function LocaleLayout({ children, params: { locale } }: {
         <html lang={locale} className='dark'>
             <body className='bg-transparent'>
                 <NextUIProviderClient>
-                    <FloatContact />
+                    {/* <FloatContact /> */}
                     <Header />
                     <div className="mt-24">
                         <NextIntlClientProvider messages={messages}>
