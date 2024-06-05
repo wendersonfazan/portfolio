@@ -1,9 +1,9 @@
 {
   "common": {
     "experience": "Experiencia",
-    "competence": "Competência",
-    "knowledge": "Conhecimento",
-    "professionalExperience": "Experiência profissional"
+    "competence": "Competências",
+    "knowledge": "Conhecimentos",
+    "professionalExperience": "Experiências profissional"
   },
   "HeroSection": {
     "title": "Meu Nome é",
@@ -120,57 +120,57 @@
       {
         "stack": "PHP",
         "img": "php",
-        "timing": "7 Anos"
+        "timing": "Há 7 Anos"
       },
       {
         "stack": "Laravel",
         "img": "laravel",
-        "timing": "7 Anos"
+        "timing": "Há 7 Anos"
       },
       {
         "stack": "Python",
         "img": "python",
-        "timing": "5 Anos"
+        "timing": "Há 5 Anos"
       },
       {
         "stack": "Java",
         "img": "java",
-        "timing": "3 Anos"
+        "timing": "Há 3 Anos"
       },
       {
         "stack": "MySQL",
         "img": "mysql",
-        "timing": "7 Anos"
+        "timing": "Há 7 Anos"
       },
       {
         "stack": "Git",
         "img": "git",
-        "timing": "7 Anos"
+        "timing": "Há 7 Anos"
       },
       {
         "stack": "PostgresSQL",
         "img": "postgresql",
-        "timing": "7 Anos"
+        "timing": "Há 7 Anos"
       },
       {
         "stack": "MongoDB",
         "img": "mongodb",
-        "timing": "3 Anos"
+        "timing": "Há 3 Anos"
       },
       {
         "stack": "ReactJs",
         "img": "react",
-        "timing": "1 Ano"
+        "timing": "Há 1 Ano"
       },
       {
         "stack": "NextJs",
         "img": "next",
-        "timing": "1 Ano"
+        "timing": "Há 1 Ano"
       },
       {
         "stack": "NodeJS",
         "img": "node",
-        "timing": "1 Ano"
+        "timing": "Há 1 Ano"
       }
     ]
   },

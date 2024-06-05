@@ -1,8 +1,8 @@
 {
   "common": {
     "experience": "Experience",
-    "competence": "Competence",
-    "knowledge": "Knowledge",
+    "competence": "Competences",
+    "knowledge": "Technical knowledge",
     "professionalExperience": "Professional Experience"
   },
   "HeroSection": {
@@ -120,60 +120,59 @@
       {
         "stack": "PHP",
         "img": "php",
-        "timing": "7 Years"
+        "timing": "7 Years ago"
       },
       {
         "stack": "Laravel",
         "img": "laravel",
-        "timing": "7 Years"
+        "timing": "7 Years ago"
       },
       {
         "stack": "Python",
-        "startDate": "2019-07-30'",
         "img": "python",
-        "timing": "5 Years"
+        "timing": "5 Years ago"
       },
       {
         "stack": "Java",
-        "timing": "3 Years",
+        "timing": "3 Years ago",
         "img": "java"
       },
       {
         "stack": "MySQL",
         "img": "mysql",
-        "timing": "7 Years"
+        "timing": "7 Years ago"
       },
       {
         "stack": "Git",
         "img": "git",
-        "timing": "7 Years"
+        "timing": "7 Years ago"
       },
       {
         "stack": "PostgresSQL",
         "img": "postgresql",
-        "timing": "7 Years"
+        "timing": "7 Years ago"
       },
       {
         "stack": "MongoDB",
         "img": "mongodb",
-        "timing": "3 Years"
+        "timing": "3 Years ago"
       },
       {
         "stack": "ReactJs",
         "img": "react",
-        "timing": "1 Year"
+        "timing": "1 Year ago"
       },
       {
         "stack": "NextJs",
         "startDate": "2023-07-30",
         "img": "next",
-        "timing": "1 Year"
+        "timing": "1 Year ago"
       },
       {
         "stack": "NodeJS",
         "startDate": "2023-01-30",
         "img": "node",
-        "timing": "1 Year"
+        "timing": "1 Year ago"
       }
     ]
   },
