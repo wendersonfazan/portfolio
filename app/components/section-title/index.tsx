@@ -22,7 +22,7 @@ export const SectionTitles = ({
       <motion.span
         {...animeProps}
         transition={{ duration: 0.5 }}
-        className="font-mono text-sm text-teal-400"
+        className="font-mono text-sm text-purple-400"
       >{`../${subtitle}`}</motion.span>
       <motion.h3
         {...animeProps}

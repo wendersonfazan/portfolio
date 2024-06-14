@@ -54,9 +54,17 @@ function GetIcons({name}: { name: string }) {
 
 
 export const KnownTech = ({tech}: KnownTechProps) => {
+    let dateNow = new Date()
+    let date = new Date('2023-01-01')
+    let diff = date.getTime() - dateNow.getTime()
+    let days = Math.floor(diff / (1000 * 60 * 60 * 24))
+
+
+
+    //Todo: add timing in the tech object
     return (
         <div
-            className="p-6 rounded-lg bg-gray-600/20  justify-between text-gray-500 flex hover:text-teal-500 hover:bg-gray-600/30 transition-all">
+            className="p-6 rounded-lg bg-gray-600/20  justify-between text-gray-500 flex hover:text-purple-500 hover:bg-gray-600/30 transition-all">
             <div className="block items-center">
                 <p className="font-medium">{tech.name}</p>
                 <span>{tech.timing}</span>
