@@ -8,6 +8,11 @@
   "HeroSection": {
     "title": "Meu Nome é",
     "name": "Wenderson do Nascimento Fazan",
+    "description": [
+      "Profissional com sólida experiência em desenvolvimento Web com foco em PHP e Laravel, apaixonado por tecnologia e desafios.",
+      "Meu principal objetivo profissional é integrar equipes de alta performance, onde eu tenha a oportunidade de desenvolver minhas habilidades e competências, ao mesmo tempo em que contribuo para o desenvolvimento da organização através de conhecimentos práticos e teóricos adquiridos ao longo da minha formação.,",
+      "Com formação em Sistemas para internet concluído, estou sempre em busca de novos aprendizados que possam agregar à minha área de atuação, me tornando um profissional cada vez mais capacitado para o mercado de trabalho."
+    ],
     "description1": "Profissional com sólida experiência em desenvolvimento Web com foco em PHP e Laravel, apaixonado por tecnologia e desafios.",
     "description2": "Meu principal objetivo profissional é integrar equipes de alta performance, onde eu tenha a oportunidade de desenvolver minhas habilidades e competências, ao mesmo tempo em que contribuo para o desenvolvimento da organização através de conhecimentos práticos e teóricos adquiridos ao longo da minha formação.",
     "description3": "Com formação em Sistemas para internet concluído, estou sempre em busca de novos aprendizados que possam agregar à minha área de atuação, me tornando um profissional cada vez mais capacitado para o mercado de trabalho."
@@ -175,6 +180,17 @@
     ]
   },
   "workExperience": {
-    "mainTitle": "Como desenvolvedor com experiência em PHP, Laravel, Python, Java, MySQL, outros bancos relacionais e ferramentas web, meu objetivo é criar soluções de alta qualidade e inovadoras, buscando constantemente aprimorar minhas habilidades e contribuir para o sucesso dos projetos e equipes de desenvolvimento."
+    "mainTitle": "Como desenvolvedor com experiência em PHP, Laravel, Python, Java, MySQL, outros bancos relacionais e ferramentas web, meu objetivo é criar soluções de alta qualidade e inovadoras, buscando constantemente aprimorar minhas habilidades e contribuir para o sucesso dos projetos e equipes de desenvolvimento.",
+    "description": [
+      "Sou um profissional com 7 anos de experiência em desenvolvimento web, especializado em backend com PHP e Python. Minhas habilidades incluem:",
+      "• Desenvolvimento robusto de aplicações utilizando PHP com frameworks como Laravel, e Python.",
+      "• Criação de interfaces frontend com HTML, CSS, JavaScript, TypeScript e ReactJS para uma experiência de usuário fluida e responsiva.",
+      "• Proficiência em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB), garantindo uma gestão eficiente de dados.",
+      "• Implementação de APIs RESTful e SOAP para integração eficaz entre sistemas.",
+      "• Experiência na construção de microservices, otimizando a escalabilidade e a manutenção de sistemas distribuídos.",
+      "• Compromisso com boas práticas de programação e código limpo para assegurar a qualidade e a manutenibilidade do software.",
+      "Busco integrar equipes de alta performance, onde possa expandir minhas habilidades e contribuir efetivamente para o crescimento da organização.",
+      "Estou motivado a aplicar meu conhecimento prático e teórico para enfrentar desafios e impulsionar projetos de sucesso."
+    ]
   }
 }

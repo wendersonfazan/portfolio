@@ -26,16 +26,12 @@ export const HeroSection = () => {
                     <h2 className="text-4xl font-medium mt-2">
                         {translateHero('name')}
                     </h2>
-                    <p className="text-gray-200 text-base sm:text-base">
-                        {translateHero('description1')}
-                    </p>
-                    <p>
-                        {translateHero('description2')}
-                    </p>
-                    <p>
-                        {translateHero('description3')}
-
-                    </p>
+                    {translateHero.raw('description').map((description: any, i: number) => (
+                        // eslint-disable-next-line react/jsx-key
+                        <p className="text-gray-200 text-base sm:text-base">
+                            {description}
+                        </p>
+                    ))}
                     <div className="flex flex-wrap gap-x-2 gap-y-3 lg:max-w-[550px]">
                         {translateStacks.raw('list').map((stack: any, i: number) => (
                             <TechBadge

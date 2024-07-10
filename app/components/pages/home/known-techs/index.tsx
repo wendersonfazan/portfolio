@@ -4,7 +4,7 @@ import {KnownTech} from './known-tech'
 import {motion} from 'framer-motion'
 import {useTranslations} from 'next-intl'
 
-export const KnownTeachs = () => {
+export const KnownTechs = () => {
     const translateStacks = useTranslations('stacks')
     const translateCommons = useTranslations('common')
 

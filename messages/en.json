@@ -8,6 +8,11 @@
   "HeroSection": {
     "title": "My name is",
     "name": "Wenderson do Nascimento Fazan",
+    "description": [
+      "Professional with solid experience in Web development with focus in PHP and Laravel, passionate about technology and challenges.",
+      "My main professional objective is to integrate high-quality teams performance, where I have the opportunity to develop my skills and competencies, while contributing to the development of the organization through practical knowledge and theoretical knowledge acquired throughout my training.",
+      "Having completed training in Internet Systems, I am always looking for new learning that can add to my area of activity, making me an increasingly qualified professional for the job market."
+    ],
     "description1": "Professional with solid experience in Web development with focus in PHP and Laravel, passionate about technology and challenges.",
     "description2": "My main professional objective is to integrate high-quality teams performance, where I have the opportunity to develop my skills and competencies, while contributing to the development of the organization through practical knowledge and theoretical knowledge acquired throughout my training.",
     "description3": "Having completed training in Internet Systems, I am always looking for new learning that can add to my area of activity, making me an increasingly qualified professional for the job market."
@@ -177,6 +182,17 @@
     ]
   },
   "workExperience": {
-    "mainTitle": "As a developer with experience in PHP, Laravel, Python, Java, MySQL, other relational databases and web tools, my goal is create high quality and innovative solutions, seeking constantly improving my skills and contributing to the success of projects and development teams."
+    "mainTitle": "As a developer with experience in PHP, Laravel, Python, Java, MySQL, other relational databases and web tools, my goal is create high quality and innovative solutions, seeking constantly improving my skills and contributing to the success of projects and development teams.",
+    "description":[
+      "I am a professional with 7 years of experience in web development, specializing in backend with PHP and Python. My skills include:",
+      "• Robust application development using PHP with frameworks such as Laravel and Python.",
+      "• Creation of frontend interfaces with HTML, CSS, JavaScript, TypeScript and ReactJS for a fluid and responsive user experience.",
+      "• Proficiency in relational (MySQL, SQL Server, PostgreSQL) and non-relational (MongoDB) databases, ensuring efficient data management.",
+      "• Implementation of RESTful and SOAP APIs for effective integration between systems.",
+      "• Experience in building microservices, optimizing scalability and maintenance of distributed systems.",
+      "• Commitment to good programming practices and clean code to ensure software quality and maintainability.",
+      "I seek to join high-performance teams, where I can expand my skills and effectively contribute to the organization's growth.",
+      "I am motivated to apply my practical and theoretical knowledge to face challenges and drive successful projects."
+    ]
   }
 }
