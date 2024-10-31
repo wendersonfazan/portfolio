@@ -20,11 +20,40 @@
   "experiences": {
     "list": [
       {
+        "company": "Pasquali Solution - CTI",
+        "company_logo": "/images/pasquali_logo.png",
+        "company_url": "https://www.linkedin.com/company/pasquali-solution-tech/",
+        "title": "Senior Level - Developer",
+        "time": "Ago/2024 - Present",
+        "description": [
+          "● Responsible for the development of the company's main product.",
+          "● API Gateway Development",
+          "● Development of new applications with microservices.",
+          "● Development Websocket for real-time communication.",
+          "● Responsible for implementing, structuring and developing the legacy portal for the new."
+        ],
+        "technologies": [
+          "PHP",
+          "Laravel",
+          "PostgresSQL",
+          "ApiRest",
+          "Java",
+          "Git",
+          "Servers",
+          "Websocket",
+          "API Gateway",
+          "Microservices",
+          "Docker",
+          "ReactJs",
+          "NextJs"
+        ]
+      },
+      {
         "company": "Acaruiy",
         "company_logo": "/images/acaruiy_logo.jpg",
         "company_url": "https://www.linkedin.com/company/acaruiy/",
         "title": "Mid Level - Developer",
-        "time": "Jun/2022 - At the moment",
+        "time": "Jun/2022 - Ago/2024",
         "description": [
           "● Develop new features and perform maintenance on the company's main product.",
           "● I helped the company implement code versioning policies in new products.",
@@ -165,25 +194,25 @@
       {
         "stack": "ReactJs",
         "img": "react",
-        "timing": "1 Year ago"
+        "timing": "2 Years ago"
       },
       {
         "stack": "NextJs",
         "startDate": "2023-07-30",
         "img": "next",
-        "timing": "1 Year ago"
+        "timing": "2 Years ago"
       },
       {
         "stack": "NodeJS",
         "startDate": "2023-01-30",
         "img": "node",
-        "timing": "1 Year ago"
+        "timing": "2 Years ago"
       }
     ]
   },
   "workExperience": {
     "mainTitle": "As a developer with experience in PHP, Laravel, Python, Java, MySQL, other relational databases and web tools, my goal is create high quality and innovative solutions, seeking constantly improving my skills and contributing to the success of projects and development teams.",
-    "description":[
+    "description": [
       "I am a professional with 7 years of experience in web development, specializing in backend with PHP and Python. My skills include:",
       "• Robust application development using PHP with frameworks such as Laravel and Python.",
       "• Creation of frontend interfaces with HTML, CSS, JavaScript, TypeScript and ReactJS for a fluid and responsive user experience.",

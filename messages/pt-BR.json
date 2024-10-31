@@ -20,11 +20,40 @@
   "experiences": {
     "list": [
       {
+        "company": "Pasquali Solution - CTI",
+        "company_logo": "/images/pasquali_logo.png",
+        "company_url": "https://www.linkedin.com/company/pasquali-solution-tech/",
+        "title": "Desenvolvedor Sênior",
+        "time": "Ago/2024 - Presente",
+        "description": [
+          "● Responsável pelo desenvolvimento do principal produto da empresa.",
+          "● Desenvolvimento de API Gateway",
+          "● Desenvolvimento de novas aplicações com microsserviços.",
+          "● Desenvolvimento de Websocket para comunicação em tempo real.",
+          "● Responsável pela implementação, estruturação e desenvolvimento do portal legado para o novo."
+        ],
+        "technologies": [
+          "PHP",
+          "Laravel",
+          "PostgresSQL",
+          "ApiRest",
+          "Java",
+          "Git",
+          "Servers",
+          "Websocket",
+          "API Gateway",
+          "Microservices",
+          "Docker",
+          "ReactJs",
+          "NextJs"
+        ]
+      },
+      {
         "company": "Acaruiy",
         "company_logo": "/images/acaruiy_logo.jpg",
         "company_url": "https://www.linkedin.com/company/acaruiy/",
         "title": "Desenvolvedor PHP - Pleno",
-        "time": "Jun/2022 - Atualmente",
+        "time": "Jun/2022 - Ago/2024",
         "description": [
           "● Desenvolver novas funcionalidades e realizar manutenção no principal produto da empresa.",
           "● Ajudei a empresa a implementar políticas de versionamento de código em novos produtos.",
@@ -165,17 +194,17 @@
       {
         "stack": "ReactJs",
         "img": "react",
-        "timing": "Há 1 Ano"
+        "timing": "Há 2 Anos"
       },
       {
         "stack": "NextJs",
         "img": "next",
-        "timing": "Há 1 Ano"
+        "timing": "Há 2 Anos"
       },
       {
         "stack": "NodeJS",
         "img": "node",
-        "timing": "Há 1 Ano"
+        "timing": "Há 2 Anos"
       }
     ]
   },
