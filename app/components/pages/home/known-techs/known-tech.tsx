@@ -6,7 +6,8 @@ import {
     TbBrandLaravel,
     TbBrandMysql,
     TbBrandPhp,
-    TbBrandGit, TbBrandNodejs,
+    TbBrandGit,
+    TbBrandNodejs,
 } from 'react-icons/tb'
 import {
     BiLogoJava,
@@ -14,12 +15,14 @@ import {
     BiLogoPostgresql,
     BiLogoPython,
 } from 'react-icons/bi'
+import {useTranslations} from "next-intl";
 
 type KnownTechProps = {
     tech: {
         icon: string
         name: string
         timing: string
+        startDate: string
     }
 }
 
@@ -54,20 +57,20 @@ function GetIcons({name}: { name: string }) {
 
 
 export const KnownTech = ({tech}: KnownTechProps) => {
+    const translateCommons = useTranslations('common')
+
     let dateNow = new Date()
-    let date = new Date('2023-01-01')
+    let date = new Date(tech.startDate)
     let diff = date.getTime() - dateNow.getTime()
-    let days = Math.floor(diff / (1000 * 60 * 60 * 24))
+    let years = Math.abs(Math.floor(diff / (1000 * 60 * 60 * 24 * 365)))
+    let message = years > 1 ? `${years} ${translateCommons('years')}` : `${years} ${translateCommons('year')}`
 
-
-
-    //Todo: add timing in the tech object
     return (
         <div
             className="p-6 rounded-lg bg-gray-600/20  justify-between text-gray-500 flex hover:text-purple-500 hover:bg-gray-600/30 transition-all">
             <div className="block items-center">
                 <p className="font-medium">{tech.name}</p>
-                <span>{tech.timing}</span>
+                <span>{message}</span>
             </div>
             <GetIcons name={tech.icon}/>
         </div>

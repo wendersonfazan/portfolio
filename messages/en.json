@@ -3,7 +3,9 @@
     "experience": "Experience",
     "competence": "Competences",
     "knowledge": "Technical knowledge",
-    "professionalExperience": "Professional Experience"
+    "professionalExperience": "Professional Experience",
+    "years": "Years",
+    "year": "Year"
   },
   "HeroSection": {
     "title": "My name is",
@@ -26,11 +28,16 @@
         "title": "Senior Level - Developer",
         "time": "Ago/2024 - Present",
         "description": [
-          "● Responsible for the development of the company's main product.",
-          "● API Gateway Development",
-          "● Development of new applications with microservices.",
-          "● Development Websocket for real-time communication.",
-          "● Responsible for implementing, structuring and developing the legacy portal for the new."
+          "Working on refactoring the portal to modern technologies, using Laravel on the backend and Next.js on the frontend.",
+          "Responsible for checking and analyzing the legacy database of the main portal, ensuring an efficient and structured migration to the new platform.",
+          "Main activities:",
+          "● Analysis and migration of old database to the new structure;",
+          "● Refactoring and modernization of the portal using Laravel and Next.js;",
+          "● Configuration and management of servers;",
+          "● Implementation of mTLS for secure communication between services;",
+          "● Development and maintenance of microservices to optimize scalability;",
+          "● Integration of APIs, ensuring compatibility with legacy and third-party systems.",
+          "Always seeking to optimize performance, security and scalability for a more efficient digital experience."
         ],
         "technologies": [
           "PHP",
@@ -55,16 +62,17 @@
         "title": "Mid Level - Developer",
         "time": "Jun/2022 - Ago/2024",
         "description": [
-          "● Develop new features and perform maintenance on the company's main product.",
-          "● I helped the company implement code versioning policies in new products.",
-          "● Technical Support Point for Other Developers.",
-          "● Development of new applications with microservices.",
-          "● SSO development.",
-          "● Development of email triggering microservice.",
-          "● Development of APIs for internal use for other projects.",
-          "● Creation of web crawlers to capture data from external websites. (Python)",
-          "● Development of routines with Apache NIFI. (Automate data flow)",
-          "● API Gateway Development"
+          "Responsible for creating and maintaining new features in the company's main product, with a focus on scalability and efficiency. Active participation in the implementation of code versioning policies, improving the organization and traceability of projects.",
+          "Main activities:",
+          "● Development and maintenance of features in the main product, ensuring high performance and scalability;",
+          "● Implementation of code versioning policies to improve organization and traceability;",
+          "● Technical support and mentoring for other developers, promoting good practices and code standardization;",
+          "● Architecture and development of microservices to optimize modularization and performance of applications;",
+          "● Implementation of Single Sign-On (SSO), centralizing and ensuring the security of user access;",
+          "● Creation of microservices to send automated emails, optimizing notifications and communications;",
+          "● Development of international APIs to facilitate integration between different systems and applications;",
+          "● Automation of data flows using Apache NiFi, increasing efficiency in information processing and manipulation;",
+          "● Development of an API Gateway, centralizing the management and security of corporate APIs."
         ],
         "technologies": [
           "PHP",
@@ -154,57 +162,68 @@
       {
         "stack": "PHP",
         "img": "php",
-        "timing": "7 Years ago"
+        "timing": "8 Years ago",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "Laravel",
         "img": "laravel",
-        "timing": "7 Years ago"
+        "timing": "8 Years ago",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "Python",
         "img": "python",
-        "timing": "5 Years ago"
+        "timing": "5 Years ago",
+        "startDate": "2018-01-01"
       },
       {
         "stack": "Java",
-        "timing": "3 Years ago",
-        "img": "java"
+        "timing": "4 Years ago",
+        "img": "java",
+        "startDate": "2021-01-01"
       },
       {
         "stack": "MySQL",
         "img": "mysql",
-        "timing": "7 Years ago"
+        "timing": "8 Years ago",
+        "startDate": "2017-01-01"
+
       },
       {
         "stack": "Git",
         "img": "git",
-        "timing": "7 Years ago"
+        "timing": "8 Years ago",
+        "startDate": "2017-01-01"
+
       },
       {
         "stack": "PostgresSQL",
         "img": "postgresql",
-        "timing": "7 Years ago"
+        "timing": "8 Years ago",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "MongoDB",
         "img": "mongodb",
-        "timing": "3 Years ago"
+        "timing": "3 Years ago",
+        "startDate": "2022-01-01"
       },
       {
         "stack": "ReactJs",
         "img": "react",
-        "timing": "2 Years ago"
+        "timing": "3 Years ago",
+        "startDate": "2022-01-01"
       },
       {
         "stack": "NextJs",
-        "startDate": "2023-07-30",
+        "startDate": "2023-01-01",
         "img": "next",
-        "timing": "2 Years ago"
+        "timing": "3 Years ago"
       },
       {
         "stack": "NodeJS",
-        "startDate": "2023-01-30",
+        "startDate": "2023-01-01",
         "img": "node",
         "timing": "2 Years ago"
       }
@@ -213,15 +232,15 @@
   "workExperience": {
     "mainTitle": "As a developer with experience in PHP, Laravel, Python, Java, MySQL, other relational databases and web tools, my goal is create high quality and innovative solutions, seeking constantly improving my skills and contributing to the success of projects and development teams.",
     "description": [
-      "I am a professional with 7 years of experience in web development, specializing in backend with PHP and Python. My skills include:",
-      "• Robust application development using PHP with frameworks such as Laravel and Python.",
-      "• Creation of frontend interfaces with HTML, CSS, JavaScript, TypeScript and ReactJS for a fluid and responsive user experience.",
-      "• Proficiency in relational (MySQL, SQL Server, PostgreSQL) and non-relational (MongoDB) databases, ensuring efficient data management.",
-      "• Implementation of RESTful and SOAP APIs for effective integration between systems.",
-      "• Experience in building microservices, optimizing scalability and maintenance of distributed systems.",
-      "• Commitment to good programming practices and clean code to ensure software quality and maintainability.",
-      "I seek to join high-performance teams, where I can expand my skills and effectively contribute to the organization's growth.",
-      "I am motivated to apply my practical and theoretical knowledge to face challenges and drive successful projects."
+      "I am a professional with 8 years of experience in web development, specializing in backend, using PHP and Python. My skills include:",
+      "• Development of robust applications with PHP, using frameworks such as Laravel, in addition to Python.",
+      "• Creation of frontend interfaces with HTML, CSS, JavaScript, TypeScript and ReactJS, aiming at a fluid and responsive user experience.",
+      "• Proficiency in relational databases (MySQL, SQL Server, PostgreSQL) and non-relational (MongoDB), ensuring efficient and secure data management.",
+      "• Implementation of RESTful and SOAP APIs, promoting efficient integration between systems.",
+      "• Experience in building microservices, optimizing scalability and maintaining distributed systems.",
+      "• Commitment to good programming practices and clean code, ensuring software quality and maintainability.",
+      "I seek to integrate high-performance teams, where I can expand my skills and contribute significantly to the growth of the organization.",
+      "I am motivated to apply as much my theoretical and practical knowledge to face challenges and drive the success of innovative projects."
     ]
   }
 }

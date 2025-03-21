@@ -3,7 +3,9 @@
     "experience": "Experiencia",
     "competence": "Competências",
     "knowledge": "Conhecimentos",
-    "professionalExperience": "Experiências profissional"
+    "professionalExperience": "Experiências profissional",
+    "years": "Anos",
+    "year": "Ano"
   },
   "HeroSection": {
     "title": "Meu Nome é",
@@ -26,11 +28,16 @@
         "title": "Desenvolvedor Sênior",
         "time": "Ago/2024 - Presente",
         "description": [
-          "● Responsável pelo desenvolvimento do principal produto da empresa.",
-          "● Desenvolvimento de API Gateway",
-          "● Desenvolvimento de novas aplicações com microsserviços.",
-          "● Desenvolvimento de Websocket para comunicação em tempo real.",
-          "● Responsável pela implementação, estruturação e desenvolvimento do portal legado para o novo."
+          "Atuação na refatoração do portal para tecnologias modernas, utilizando Laravel no backend e Next.js no frontend.",
+          "Responsável por verificar e analisar o banco de dados legado do portal principal, garantindo uma migração eficiente e estruturada para a nova plataforma.",
+          "Principais atividades:",
+          "● Análise e migração de banco de dados antigo para a nova estrutura;",
+          "● Refatoração e modernização do portal utilizando Laravel e Next.js;",
+          "● Configuração e gerenciamento de servidores;",
+          "● Implementação de mTLS para comunicação segura entre serviços;",
+          "● Desenvolvimento e manutenção de microserviços para otimizar a escalabilidade;",
+          "● Integração de APIs, garantindo compatibilidade com sistemas legados e terceiros.",
+          "Buscando sempre otimizar desempenho, segurança e escalabilidade para uma experiência digital mais eficiente."
         ],
         "technologies": [
           "PHP",
@@ -55,16 +62,17 @@
         "title": "Desenvolvedor PHP - Pleno",
         "time": "Jun/2022 - Ago/2024",
         "description": [
-          "● Desenvolver novas funcionalidades e realizar manutenção no principal produto da empresa.",
-          "● Ajudei a empresa a implementar políticas de versionamento de código em novos produtos.",
-          "● Ponto de Apoio Técnico para Outros Desenvolvedores.",
-          "● Desenvolvimento de novas aplicações com microsserviços.",
-          "● Desenvolvimento do SSO.",
-          "● Desenvolvimento de microserviço de disparo de emails.",
-          "● Desenvolvimento de API'S para uso interno para outros projetos.",
-          "● Criação de web crawlers para captura de dados de sites externos. (Python)",
-          "● Desenvolvimento de rotinas com Apache NIFI. (Automatizar o fluxo de dados)",
-          "● Desenvolvimento de API Gateway"
+          "Responsável pela criação e manutenção de novas funcionalidades no principal produto da empresa, com foco em escalabilidade e eficiência. Participação ativa na implementação de políticas de versionamento de código, aprimorando a organização e rastreabilidade dos projetos.",
+          "Principais atividades:",
+          "● Desenvolvimento e manutenção de funcionalidades no produto principal, garantindo alta performance e escalabilidade;",
+          "● Implementação de políticas de versionamento de código para melhorar a organização e rastreabilidade;",
+          "● Suporte técnico e mentoria para outros desenvolvedores, promovendo boas práticas e padronização do código;",
+          "● Arquitetura e desenvolvimento de microsserviços para otimização da modularização e desempenho das aplicações;",
+          "● Implementação de Single Sign-On (SSO), centralizando e garantindo a segurança dos acessos dos usuários;",
+          "● Criação de microsserviços para envio de e-mails automatizados, otimizando notificações e comunicações;",
+          "● Desenvolvimento de APIs internacionais para facilitar a integração entre sistemas e aplicações diferentes;",
+          "● Automação de fluxos de dados utilizando Apache NiFi, aumentando a eficiência no processamento e manipulação de informações;",
+          "● Desenvolvimento de um API Gateway, centralizando o gerenciamento e a segurança das APIs corporativas."
         ],
         "technologies": [
           "PHP",
@@ -154,72 +162,83 @@
       {
         "stack": "PHP",
         "img": "php",
-        "timing": "Há 7 Anos"
+        "timing": "Há 7 Anos",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "Laravel",
         "img": "laravel",
-        "timing": "Há 7 Anos"
+        "timing": "Há 7 Anos",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "Python",
         "img": "python",
-        "timing": "Há 5 Anos"
+        "timing": "Há 5 Anos",
+        "startDate": "2018-01-01"
       },
       {
         "stack": "Java",
         "img": "java",
-        "timing": "Há 3 Anos"
+        "timing": "Há 3 Anos",
+        "startDate": "2021-01-01"
       },
       {
         "stack": "MySQL",
         "img": "mysql",
-        "timing": "Há 7 Anos"
+        "timing": "Há 7 Anos",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "Git",
         "img": "git",
-        "timing": "Há 7 Anos"
+        "timing": "Há 7 Anos",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "PostgresSQL",
         "img": "postgresql",
-        "timing": "Há 7 Anos"
+        "timing": "Há 7 Anos",
+        "startDate": "2017-01-01"
       },
       {
         "stack": "MongoDB",
         "img": "mongodb",
-        "timing": "Há 3 Anos"
+        "timing": "Há 3 Anos",
+        "startDate": "2022-01-01"
       },
       {
         "stack": "ReactJs",
         "img": "react",
-        "timing": "Há 2 Anos"
+        "timing": "Há 2 Anos",
+        "startDate": "2022-01-01"
       },
       {
         "stack": "NextJs",
         "img": "next",
-        "timing": "Há 2 Anos"
+        "timing": "Há 2 Anos",
+        "startDate": "2023-01-01"
       },
       {
         "stack": "NodeJS",
         "img": "node",
-        "timing": "Há 2 Anos"
+        "timing": "Há 2 Anos",
+        "startDate": "2023-01-01"
       }
     ]
   },
   "workExperience": {
     "mainTitle": "Como desenvolvedor com experiência em PHP, Laravel, Python, Java, MySQL, outros bancos relacionais e ferramentas web, meu objetivo é criar soluções de alta qualidade e inovadoras, buscando constantemente aprimorar minhas habilidades e contribuir para o sucesso dos projetos e equipes de desenvolvimento.",
     "description": [
-      "Sou um profissional com 7 anos de experiência em desenvolvimento web, especializado em backend com PHP e Python. Minhas habilidades incluem:",
-      "• Desenvolvimento robusto de aplicações utilizando PHP com frameworks como Laravel, e Python.",
-      "• Criação de interfaces frontend com HTML, CSS, JavaScript, TypeScript e ReactJS para uma experiência de usuário fluida e responsiva.",
-      "• Proficiência em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB), garantindo uma gestão eficiente de dados.",
-      "• Implementação de APIs RESTful e SOAP para integração eficaz entre sistemas.",
-      "• Experiência na construção de microservices, otimizando a escalabilidade e a manutenção de sistemas distribuídos.",
-      "• Compromisso com boas práticas de programação e código limpo para assegurar a qualidade e a manutenibilidade do software.",
-      "Busco integrar equipes de alta performance, onde possa expandir minhas habilidades e contribuir efetivamente para o crescimento da organização.",
-      "Estou motivado a aplicar meu conhecimento prático e teórico para enfrentar desafios e impulsionar projetos de sucesso."
+      "Sou um profissional com 8 anos de experiência em desenvolvimento web, com especialização em backend, utilizando PHP e Python. Minhas competências incluem:",
+      "• Desenvolvimento de aplicações robustas com PHP, empregando frameworks como Laravel, além de Python.",
+      "• Criação de interfaces frontend com HTML, CSS, JavaScript, TypeScript e ReactJS, visando uma experiência de usuário fluida e responsiva.",
+      "• Proficiência em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB), garantindo uma gestão eficiente e segura dos dados.",
+      "• Implementação de APIs RESTful e SOAP, promovendo integração eficiente entre sistemas.",
+      "• Experiência na construção de microservices, otimização da escalabilidade e manutenção de sistemas distribuídos.",
+      "• Compromisso com boas práticas de programação e código limpo, assegurando a qualidade e a manutenibilidade do software.",
+      "Busco integrar equipes de alto desempenho, onde possa ampliar minhas competências e contribuir significativamente para o crescimento da organização.",
+      "Estou motivado a aplicar tanto meu conhecimento teórico quanto prático para enfrentar desafios e impulsionar o sucesso de projetos inovadores."
     ]
   }
 }
