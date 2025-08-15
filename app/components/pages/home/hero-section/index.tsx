@@ -55,7 +55,7 @@ export const HeroSection = () => {
                     <Image
                         width={420}
                         height={420}
-                        src="/images/wendersonFazan.jpg"
+                        src="/images/Eu.jpg"
                         alt="foto de perfil"
                         className="p-1 border-2 border-purple-500 w-[300px] h-full lg:w-[420px] mb-6 lg:mb-0 lg:rounded-lg rounded-full object-cover hover:shadow-button hover:border-purple-200 transition-all"
                     />
